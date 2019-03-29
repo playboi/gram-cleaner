@@ -1,0 +1,6 @@
+# Mac files
+.DS_Store
+
+# Config files
+config.js
+
