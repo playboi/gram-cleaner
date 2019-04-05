@@ -8,5 +8,8 @@
     "test": "npm test"
   },
   "author": "Mike Knight <torontoplayboi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "instagram-private-api": "^0.6.8"
+  }
 }
